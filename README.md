@@ -96,3 +96,5 @@ No guarantees are provided regarding completeness or future compatibility with L
 ## License
 
 MIT License
+
+- [日本語 README](README.ja.md)
