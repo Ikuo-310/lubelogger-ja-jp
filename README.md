@@ -102,4 +102,4 @@ No guarantees are provided regarding completeness or future compatibility with L
 
 ## License
 
-License has not been decided yet.
+MIT License
