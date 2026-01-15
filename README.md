@@ -1,3 +1,5 @@
+- [日本語 README](README.ja.md)
+
 # lubelogger-ja-jp
 
 Japanese translation (ja_JP) for LubeLogger, localized for Japanese car and motorcycle users.
@@ -96,5 +98,3 @@ No guarantees are provided regarding completeness or future compatibility with L
 ## License
 
 MIT License
-
-- [日本語 README](README.ja.md)
