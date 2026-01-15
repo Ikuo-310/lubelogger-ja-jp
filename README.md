@@ -72,22 +72,17 @@ This is a deliberate choice to avoid low-quality or misleading translations.
 
 ## Installation
 
-1. Download `ja_JP.json` from this repository  
+    Download ja_JP.json from this repository.
 
-2. Open LubeLogger and go to:
-   - Language
-   - Manage Languages
+    Open LubeLogger and navigate to: Settings > Language > Manage Languages.
 
-3. Click **Upload** and select `ja_JP.json`
+    Click Upload and select the ja_JP.json file.
 
-4. Apply the language configuration if required
+    Select Japanese (ja_JP) in the language settings.
 
-5. Select Japanese (ja_JP) in the language settings
+### Notes - Uploading via the UI is the recommended method. Manually placing files into internal directories is not required.
 
-### Notes
-- Uploading via **Manage Languages** is the recommended method
-- Manually placing files into internal directories is not required
-
+    If the filename conflicts with an existing file, please rename it (e.g., ja_JP_custom.json) before uploading.
 
 ---
 
