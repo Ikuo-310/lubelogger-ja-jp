@@ -87,7 +87,6 @@ This is a deliberate choice to avoid low-quality or misleading translations.
 ### Notes
 - Uploading via **Manage Languages** is the recommended method
 - Manually placing files into internal directories is not required
-- Using the filename `ja-JP.json` may cause conflicts with built-in language files
 
 
 ---
