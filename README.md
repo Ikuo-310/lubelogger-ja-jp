@@ -73,7 +73,6 @@ This is a deliberate choice to avoid low-quality or misleading translations.
 ## Installation
 
 1. Download `ja_JP.json` from this repository  
-   (Do NOT rename the file to `ja-JP.json`)
 
 2. Open LubeLogger and go to:
    - Language
