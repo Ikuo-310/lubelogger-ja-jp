@@ -80,7 +80,7 @@ LubeLogger向けの日本語翻訳(ja_JP)です。日本の自動車・オート
    - Language
    - Manage Languages
 
-3. **UpLoad**をクリックし、ダウンロードし保存した `ja_JP.json` を選択
+3. **Upload**をクリックし、ダウンロードし保存した `ja_JP.json` を選択
 
 4. 必要に応じて言語設定を適用
 
