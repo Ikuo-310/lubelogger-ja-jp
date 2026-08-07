@@ -41,6 +41,7 @@ Some areas are intentionally left untranslated or only partially translated:
 - Features that do not have a commonly understood equivalent in Japanese vehicle culture, such as `Vehicle Map`
 
 These areas are intentionally left in their original English (`en_US`) form rather than introducing translations that could be inaccurate or misleading.
+
 ---
 
 ## Target Users
