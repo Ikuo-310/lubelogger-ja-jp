@@ -32,16 +32,15 @@ but application usage remains consistent and non-breaking.
 
 ---
 
-## Intentionally Untranslated or Partially Translated Sections
+## Intentionally Untranslated Areas
 
-Some sections are intentionally left untranslated or only partially translated:
+Some areas are intentionally left untranslated or only partially translated:
 
-- Tabs rarely used in Japan (e.g. Equipment, Inspections)
-- Server-side configuration and advanced system settings
-- Features without a commonly understood concept in Japan (e.g. Vehicle Map)
+- Tabs that are rarely used by typical Japanese private vehicle owners, such as `Equipment` and `Inspections`
+- Advanced server and system configuration settings
+- Features that do not have a commonly understood equivalent in Japanese vehicle culture, such as `Vehicle Map`
 
-This is a deliberate choice to avoid low-quality or misleading translations.
-
+These areas are intentionally left in their original English (`en_US`) form rather than introducing translations that could be inaccurate or misleading.
 ---
 
 ## Target Users
@@ -74,17 +73,12 @@ This is a deliberate choice to avoid low-quality or misleading translations.
 
 ## Installation
 
-    Download ja_JP.json from this repository.
+1. Download `ja_JP.json` from this repository.
+2. Open **LubeLogger** and go to **Settings**.
+3. Open the **Translation** section and upload `ja_JP.json`.
+4. Select Japanese (`ja_JP`) as the language.
 
-    Open LubeLogger and navigate to: Settings > Language > Manage Languages.
-
-    Click Upload and select the ja_JP.json file.
-
-    Select Japanese (ja_JP) in the language settings.
-
-### Notes - Uploading via the UI is the recommended method. Manually placing files into internal directories is not required.
-
-    If the filename conflicts with an existing file, please rename it (e.g., ja_JP_custom.json) before uploading.
+Depending on your LubeLogger version, the exact menu names or locations may differ.
 
 ---
 
